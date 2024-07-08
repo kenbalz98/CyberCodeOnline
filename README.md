@@ -1,3 +1,5 @@
+
+![chrome_qrcode_1720346368325](https://github.com/DexterHuang/CyberCodeOnline/assets/57785064/b93bd831-f744-4ec2-bd21-2e9d40aebb08)
 ![CyberCode Online Logo](/resources/readme/CyberCode%20Online.png)
 
 \*CyberCode Online is a **browser & mobile based MMORPG game***
