@@ -1,3 +1,6 @@
+
+
+
 ![CyberCode Online Logo](/resources/readme/CyberCode%20Online.png)
 
 \*CyberCode Online is a **browser & mobile based MMORPG game***
@@ -27,10 +30,11 @@ If you would like to help to maintain CyberCode Online, please feel free to subm
 - contribution/mobile/{lang}/procedural-names - equipment names  
   **Note**: In order to keep things less confusing, please avoid adding additional tier prefixes.
 - contribution/mobile/{lang}/item/lore - item lore
-- contribution/mobile/{lang}/scenario/\*\* - drop lore
-- contribution/mobile/{lang}/dungeon-lore/\*\* - dungeon lore
+- contribution/mobile/{lang}/scenario/\001\489 - drop lore
+- contribution/mobile/{lang}/dungeon-lore/\0\1 - dungeon lore
 - tips.txt - Tips for desktop
-- tutorial/\* - Desktop Tutorial
+- tutorial/\45
+ - Desktop Tutorial
 - contribution/lang/ - Localizations
 
 [![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https:///pr.new/DexterHuang/CyberCodeOnline)
